@@ -1,0 +1,1 @@
+# Scouts-Trip-Manager
